@@ -1,0 +1,18 @@
+{
+  "name": "bwa-perforce",
+  "main": "./lib/bwa-perforce",
+  "version": "0.0.0",
+  "description": "A package to let you write on perforce files",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "BWA Perforce:edit"
+  },
+  "repository": "https://github.com/ifuyivara/bwa-perforce",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
